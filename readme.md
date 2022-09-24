@@ -24,3 +24,12 @@
      <td align="center"><a href="https://github.com/Keven-dev"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102174745?v=4" width="100px;" alt=""/><br /><sub><b>Keven Nascimento</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
     <td align="center"><a href="https://github.com/matheusenricocsb"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102174772?v=4" width="100px;" alt=""/><br /><sub><b>Matheus Enrico</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat"></a></td>
   </tr>
+  </table>
+<br>
+<h2 align="center">Ferramentas Utilizadas</h2>
+
+<p>
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+<img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/GameMaker_Studio_2_logo.png/1280px-GameMaker_Studio_2_logo.png">
+<p> Utilizamos o <a href="https://www.figma.com/">Figma</a> durante a elaboração do protótipo e o <a href="https://gamemaker.io/pt-BR">GameMaker</a> durante a elaboração da versão alpha.</p></p>
+
