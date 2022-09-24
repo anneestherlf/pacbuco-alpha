@@ -1,0 +1,16 @@
+Convertendo script GML: MACRO: GM_version
+Cadeia convertida - linha 1: '1.0.0.4' -> "1.0.0.4"
+
+Jogo velocidade definido para 30
+Compatibilidade de script adicionado: action/action_another_room.gml
+Compatibilidade de script adicionado: action/action_end_game.gml
+Compatibilidade de script adicionado: action/action_if_empty.gml
+Compatibilidade de script adicionado: action/action_if_variable.gml
+Compatibilidade de script adicionado: action/action_kill_object.gml
+Compatibilidade de script adicionado: action/action_move.gml
+Compatibilidade de script adicionado: action/action_restart_game.gml
+Compatibilidade de script adicionado: action/action_set_life.gml
+Compatibilidade de script adicionado: action/action_set_relative.gml
+Compatibilidade de script adicionado: action/action_sprite_set.gml
+Compatibilidade de script adicionado: action/__init_action.gml
+Compatibilidade de script adicionado: __init_global.gml
